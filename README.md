@@ -19,7 +19,6 @@
 
 <br>
 
----
 
 ## 📝 Connect with me  
 
@@ -37,7 +36,6 @@
 
 <br>
 
----
 
 ## 🚀 Languages and Tools  
 
@@ -70,7 +68,6 @@
 
 <br>
 
----
 
 ## 📊 GitHub Stats  
 
@@ -84,15 +81,6 @@
 
 <br>
 
----
-
-## 🎯 Fun Fact  
-
-<p align="center">
-  <b>⚡ I debug my code more than I sleep! 😆💻</b>
-</p>
-
----
 
 ### ✨ Improvements Made:
 ✔️ Added spacing using `<br>` tags for better readability  
