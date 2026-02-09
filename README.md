@@ -1,5 +1,3 @@
-![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
-
 <h1 align="center">Hi 👋, I'm Suwasthiga Nagendramoorthy</h1>
 <h3 align="center">Undergraduate Student, Computer Science and Engineering at University of Moratuwa</h3>
 
