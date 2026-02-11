@@ -11,9 +11,7 @@
 ##  About Me  
 
 I am a Computer Science and Engineering undergraduate who enjoys building **real-world systems** that connect hardware, software, and data.  
-
 My main focus is **IoT & Embedded Systems**, and I also develop web and mobile applications to create complete end-to-end solutions.
-
 I am passionate about learning new technologies, solving problems, and working on impactful projects.
 
 
