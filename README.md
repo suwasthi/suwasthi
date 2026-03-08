@@ -4,7 +4,7 @@
  
 ###  Computer Science & Engineering Undergraduate | University of Moratuwa  
 
- IoT & Embedded Systems Stream |  Full Stack and  Developer
+ IoT & Embedded Systems Stream | Full Stack and  Developer
 
 </div>
 
