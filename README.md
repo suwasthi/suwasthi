@@ -22,7 +22,7 @@ I am passionate about learning new technologies, solving problems, and working o
 -  Embedded Systems & IoT Projects  
 -  Web Application Development  
 -  Mobile App Development  
--  Sensor-Based & Real-Time Systems  
+-  Sensor-Based and Real-Time Systems  
 -  Full-Stack Applications  
 
 ---
